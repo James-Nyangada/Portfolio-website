@@ -22,7 +22,7 @@ const Portflio = () => {
 
           <h3>CoinSafari</h3>
           <div className="portfolio__item-cta">
-            <a href="" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/James-Nyangada/CoinSafari" className='btn' target='_blank'>Github</a>
             <a href="https://coinsafari.netlify.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
           

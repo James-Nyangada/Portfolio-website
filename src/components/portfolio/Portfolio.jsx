@@ -33,10 +33,10 @@ const Portflio = () => {
             <img src={IMG2} alt="" />
           </div>
 
-          <h3>School Website</h3>
+          <h3>Gym Website</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/James-Nyangada" className='btn' target='_blank'>Github</a>
-            <a href="https://orafolio.framer.website/" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/James-Nyangada/natty-gym" className='btn' target='_blank'>Github</a>
+            <a href="https://natty-gym.netlify.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
           
         </article>

@@ -40,6 +40,19 @@ const Portflio = () => {
           </div>
           
         </article>
+
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG5} alt="" />
+          </div>
+
+          <h3>Photographer Portfolio</h3>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/James-Nyangada" className='btn' target='_blank'>Github</a>
+            <a href="https://photographer-jj.netlify.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
+          
+        </article>
         
         <article className="portfolio__item">
           <div className="portfolio__item-image">
@@ -60,19 +73,6 @@ const Portflio = () => {
           </div>
 
           <h3>E-commerce website</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com/James-Nyangada" className='btn' target='_blank'>Github</a>
-            <a href="https://orafolio.framer.website/" className='btn btn-primary' target='_blank'>Live Demo</a>
-          </div>
-          
-        </article>
-        
-        <article className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={IMG5} alt="" />
-          </div>
-
-          <h3>Photographer Portfolio</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/James-Nyangada" className='btn' target='_blank'>Github</a>
             <a href="https://orafolio.framer.website/" className='btn btn-primary' target='_blank'>Live Demo</a>

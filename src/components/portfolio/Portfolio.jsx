@@ -48,7 +48,7 @@ const Portflio = () => {
 
           <h3>Photographer Portfolio</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/James-Nyangada" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/James-Nyangada/photographer-portfolio" className='btn' target='_blank'>Github</a>
             <a href="https://photographer-jj.netlify.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
           

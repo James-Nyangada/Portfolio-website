@@ -59,10 +59,10 @@ const Portflio = () => {
             <img src={IMG3} alt="" />
           </div>
 
-          <h3>Church Website</h3>
+          <h3>Travel agency Website</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/James-Nyangada" className='btn' target='_blank'>Github</a>
-            <a href="https://orafolio.framer.website/" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/James-Nyangada/African-Outback-Safari" className='btn' target='_blank'>Github</a>
+            <a href="https://africa-outback-safari.netlify.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
           
         </article>
